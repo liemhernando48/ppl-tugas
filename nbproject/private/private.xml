@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/CRUD_MVC/src/mvc/View/FormMahasiswa.java</file>
+            <file>file:/E:/CRUD_MVC/src/mvc/DAOInterface/IMahasiswa.java</file>
+            <file>file:/E:/CRUD_MVC/src/mvc/Controller/ControllerMahasiswa.java</file>
+            <file>file:/E:/CRUD_MVC/src/mvc/Koneksi/Koneksi.java</file>
+            <file>file:/E:/CRUD_MVC/src/mvc/Model/Mahasiswa.java</file>
+            <file>file:/E:/CRUD_MVC/src/mvc/DAO/DAOMahasiswa.java</file>
+            <file>file:/E:/CRUD_MVC/src/mvc/Model/TableModelMahasiswa.java</file>
+        </group>
+    </open-files>
+</project-private>
